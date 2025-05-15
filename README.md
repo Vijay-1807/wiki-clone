@@ -1,6 +1,6 @@
 # CS50W Project 1 - Wiki
 
-A Wikipedia-like online encyclopedia. This was Project 1 of HarvardX's [CS50W](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) course in 2021 and was built using Python, Django, CSS, HTML, and Bootstrap.
+A Wikipedia-like online encyclopedia. This was Project 1 of HarvardX's [CS50W](https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home) course in 2025 and was built using Python, Django, CSS, HTML, and Bootstrap.
 
 ## YouTube Video
 
